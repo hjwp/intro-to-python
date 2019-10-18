@@ -2,7 +2,7 @@
 A series of workshops for MADE employees to automate everyday computer tasks using the online, free course 'Automate The 
 Boring Stuff' (https://automatetheboringstuff.com/) by Al Sweigart.
 
-The workshops are split into the first 3 lessons being for Beginners - colleauges with no or minimal previous Python or 
+The workshops are split into the first 3 lessons being for Beginners - colleagues with no or minimal previous Python or 
 programming experience, who would like to get their head around the foundation of programming with Python. Then there 
 are 2 lessons for Intermediate level programmers - people who know the basics of Python or other programming languages
 and would like to learn about web scraping and spreadsheet manipulation with Python.
